@@ -1,5 +1,6 @@
 # plagriasim_detection
 detects direct plagriasm
+
 We'll focus on identifying exact or near-exact matches of text segments between an "assignment" document and a "source" document (or a collection of source documents).
 
 Key Concepts & Techniques We'll Use:
